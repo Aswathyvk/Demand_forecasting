@@ -159,7 +159,7 @@ Backend runs at: `http://127.0.0.1:8000/`
 
 ---
 
-### 🌐 Frontend Setup (React)
+### 🌐 Frontend Setup 
 
 ```bash
 # Navigate to the frontend folder
@@ -216,19 +216,6 @@ Models are retrained as new sales data is added.
 | [Login]<img width="930" height="1138" alt="image" src="https://github.com/user-attachments/assets/ee7294e9-b3cb-40cd-b68c-1b23bc2750f5" /> | [Dashboard]<img width="922" height="1165" alt="image" src="https://github.com/user-attachments/assets/e961f383-d87e-48af-aee7-0736f60f3666" />
  | [Forecast]<img width="934" height="1184" alt="image" src="https://github.com/user-attachments/assets/dd7b3dfd-b5af-4527-b957-b9d4d70a342f" />
  
-
-
----
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a branch: `git checkout -b feature/your-feature`
-3. Commit your changes: `git commit -m "Add your feature"`
-4. Push: `git push origin feature/your-feature`
-5. Open a Pull Request
-
-
 
 ---
 
