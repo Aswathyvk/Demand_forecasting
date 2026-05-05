@@ -153,9 +153,6 @@ python manage.py createsuperuser
 
 # 6. Start the server
 python manage.py runserver
-```
-
-Backend runs at: `http://127.0.0.1:8000/`
 
 ---
 
