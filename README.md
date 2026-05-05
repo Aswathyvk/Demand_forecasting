@@ -17,7 +17,8 @@
 ## 🖥️ Preview
 
 <p align="center">
-  <img src="screenshots/login.png" alt="RetailForecast Login Page" width="600"/>
+  <img width="975" height="449" alt="image" src="https://github.com/user-attachments/assets/858b7ef2-1c30-475f-8df8-15ca64ba5696" />
+
 </p>
 
 ---
