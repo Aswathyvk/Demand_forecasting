@@ -213,8 +213,9 @@ Models are retrained as new sales data is added.
 
 | Login | Dashboard | Forecast |
 |-------|-----------|----------|
-| ![Login]<img width="930" height="1138" alt="image" src="https://github.com/user-attachments/assets/ee7294e9-b3cb-40cd-b68c-1b23bc2750f5" /> | ![Dashboard](screenshots/dashboard.png) | ![Forecast]<img width="934" height="1184" alt="image" src="https://github.com/user-attachments/assets/dd7b3dfd-b5af-4527-b957-b9d4d70a342f" />
- |
+| [Login]<img width="930" height="1138" alt="image" src="https://github.com/user-attachments/assets/ee7294e9-b3cb-40cd-b68c-1b23bc2750f5" /> | [Dashboard]<img width="922" height="1165" alt="image" src="https://github.com/user-attachments/assets/e961f383-d87e-48af-aee7-0736f60f3666" />
+ | [Forecast]<img width="934" height="1184" alt="image" src="https://github.com/user-attachments/assets/dd7b3dfd-b5af-4527-b957-b9d4d70a342f" />
+ 
 
 
 ---
